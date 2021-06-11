@@ -1,0 +1,29 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 129 107">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(-177 -197)">
+      <rect class="cls-1" x="225" y="239.51" width="32.06" height="22.49"/>
+    </clipPath>
+  </defs>
+  <title>2</title>
+  <rect class="cls-2" width="129" height="107"/>
+  <g class="cls-3">
+    <path class="cls-4" d="M247.62,252.77c5.21,0,9.44-3,9.44-6.66s-4.23-6.6-9.44-6.6-9.43,3-9.43,6.6,4.23,6.66,9.43,6.66M234.44,262c5.2,0,9.44-3,9.44-6.66s-4.24-6.6-9.44-6.6-9.44,3-9.44,6.6,4.23,6.66,9.44,6.66" transform="translate(-177 -197)"/>
+  </g>
+</svg>
